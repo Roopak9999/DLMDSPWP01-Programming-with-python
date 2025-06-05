@@ -1,2 +1,5 @@
 # DLMDSPWP01-Programming-with-python
 IDENTIFYING THE BEST FIT IDEAL FUNCTIONS FOR TEST DATA USING CORRELATION AND LEAST SQUARES ANALYSIS
+The project does have an underlying intent, and the primary end goal is to develop a usable system that employs computational methods like Pearson correlation and least squares approximation to find and map the best ideal mathematical functions for a specific set of training and test data. The larger end goal is about more than just fitting. The larger goal can, and will also involve, validating the fit with another key focus on unit testing of those fits, storing and retrieving processed data utilizing an efficient database management system (DBMS), and version control to position the codebase for traceability and collaborative effort.
+The ideal function with the least least-square error (LSE) for that training function was considered the best fit
+<img width="209" alt="image" src="https://github.com/user-attachments/assets/ac9e8e3d-6e18-40ed-9220-82b7bb20e928" />
